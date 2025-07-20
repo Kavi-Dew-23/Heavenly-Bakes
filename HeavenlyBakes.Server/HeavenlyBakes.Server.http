@@ -1,0 +1,6 @@
+@HeavenlyBakes.Server_HostAddress = http://localhost:5012
+
+GET {{HeavenlyBakes.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
