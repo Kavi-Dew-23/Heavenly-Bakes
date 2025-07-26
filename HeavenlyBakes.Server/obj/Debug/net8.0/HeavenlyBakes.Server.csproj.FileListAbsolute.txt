@@ -69,3 +69,4 @@ G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Server\obj\Debug\net8.
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Server\obj\Debug\net8.0\HeavenlyBakes.Server.pdb
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Server\obj\Debug\net8.0\HeavenlyBakes.Server.genruntimeconfig.cache
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Server\obj\Debug\net8.0\ref\HeavenlyBakes.Server.dll
+G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Server\obj\Debug\net8.0\HeavenlyBakes.Server.sourcelink.json
