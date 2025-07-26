@@ -3,6 +3,7 @@ wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
 wwwroot\favicon.png
 wwwroot\icon-192.png
+wwwroot\images\Cake1.png
 wwwroot\images\cart.png
 wwwroot\images\logo.png
 wwwroot\images\user.png

@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\Cake1.png",
+      "PackagePath": "staticwebassets\\images\\Cake1.png"
+    },
+    {
       "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\cart.png",
       "PackagePath": "staticwebassets\\images\\cart.png"
     },

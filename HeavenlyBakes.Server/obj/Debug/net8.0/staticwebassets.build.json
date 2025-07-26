@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "th/zhaA4wXCa6+KOPEoiRLC6HqsGMgvtHVozhTwUicQ=",
+  "Hash": "EbRawabndBXYqGJ7NkUv7Xd9tM4mY9TDY7OzROb5UcM=",
   "Source": "HeavenlyBakes.Server",
   "BasePath": "_content/HeavenlyBakes.Server",
   "Mode": "Default",
@@ -43,8 +43,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "j5kxxu11wf",
-      "Integrity": "udKRa3do08e+KbWywTvGHay9FXpzb1IlCEOWdE/PlDU=",
+      "Fingerprint": "zvrf6t4i7a",
+      "Integrity": "EavaQeSvUXHdhadS6mblPMsA9GvMYmRQ7IuY7Sx2z/k=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -232,8 +232,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "hzgggunnx0",
-      "Integrity": "A86H1mwSAjnq3nXCvqxJsuihzNmt5Q0+fSy9KexBwg4=",
+      "Fingerprint": "qd7is3wb0o",
+      "Integrity": "IsIWwZvMZc+wcvOahsqCONSTYzpoQySQre6rirDJRpg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\HeavenlyBakes.Client.pdb"
@@ -253,8 +253,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "cclidc5rqc",
-      "Integrity": "dNZ/X9e3l8/QEIn9uUEsF5b+poDocgqH4qDkArLcB30=",
+      "Fingerprint": "oom1bot35y",
+      "Integrity": "GASX/l8wDEFS0PIpMA+akQp4Cot2geuUurLhl/sIyio=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\HeavenlyBakes.Client.wasm"
@@ -5888,7 +5888,7 @@
       "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\aiju7caabj-h6ank6rlmy.gz"
     },
     {
-      "Identity": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\amo94l9dxa-j5kxxu11wf.gz",
+      "Identity": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\amo94l9dxa-zvrf6t4i7a.gz",
       "SourceId": "HeavenlyBakes.Client",
       "SourceType": "Project",
       "ContentRoot": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -5902,11 +5902,11 @@
       "RelatedAsset": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uqf8dby2yx",
-      "Integrity": "ttp6GQ8HnqI7OxyXIHiggIWq5fnFAXGxXBxLoy+8Eas=",
+      "Fingerprint": "9avr2eb5ri",
+      "Integrity": "IQHcjFBrvot3Dx2A6sgGyXbe4+Kt826/KhG7RY9cgQo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\amo94l9dxa-j5kxxu11wf.gz"
+      "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\amo94l9dxa-zvrf6t4i7a.gz"
     },
     {
       "Identity": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\awu3doo33j-oyz0vx2fzb.gz",
@@ -6266,7 +6266,7 @@
       "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\eq4z38lsh4-jt8xzja2dj.gz"
     },
     {
-      "Identity": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\ey27cs5fs2-hzgggunnx0.gz",
+      "Identity": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\ey27cs5fs2-qd7is3wb0o.gz",
       "SourceId": "HeavenlyBakes.Client",
       "SourceType": "Project",
       "ContentRoot": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -6280,11 +6280,11 @@
       "RelatedAsset": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\HeavenlyBakes.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "iwwndkncdm",
-      "Integrity": "rozyn+Sw2mqv2BsHy9nVC3cYjw845zG/nurmsaa/oZk=",
+      "Fingerprint": "1tikncbax7",
+      "Integrity": "NfP8AXwOWswZ53AkUcsYNZEbrcTZlV7u/cl0p94zZCE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\ey27cs5fs2-hzgggunnx0.gz"
+      "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\ey27cs5fs2-qd7is3wb0o.gz"
     },
     {
       "Identity": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\ey48muqct3-jtz0y51a9s.gz",
@@ -8534,7 +8534,7 @@
       "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\z2gsf4c71z-tptq2av103.gz"
     },
     {
-      "Identity": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\z5nfqvr1if-cclidc5rqc.gz",
+      "Identity": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\z5nfqvr1if-oom1bot35y.gz",
       "SourceId": "HeavenlyBakes.Client",
       "SourceType": "Project",
       "ContentRoot": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -8548,11 +8548,11 @@
       "RelatedAsset": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\HeavenlyBakes.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6npurcpjng",
-      "Integrity": "ricoJdos0d6SrPqUfTMKqUWgMSzX87eReJerE3+vn9o=",
+      "Fingerprint": "yl4ngxyema",
+      "Integrity": "FkvfHpHfHXUxf55Fo0/hxNxwh2rPEIkW3W4sOGju2D4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\z5nfqvr1if-cclidc5rqc.gz"
+      "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\z5nfqvr1if-oom1bot35y.gz"
     },
     {
       "Identity": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\z8rlkspmi4-9c2vyaeoao.gz",
@@ -8849,6 +8849,27 @@
       "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\icon-192.png"
     },
     {
+      "Identity": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\Cake1.png",
+      "SourceId": "HeavenlyBakes.Client",
+      "SourceType": "Project",
+      "ContentRoot": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/Cake1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "piuk9t9us7",
+      "Integrity": "gSSVv87svQZT4QsPVPlToRxguxlkbVfX/hWOwMXcqFQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\Cake1.png"
+    },
+    {
       "Identity": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\cart.png",
       "SourceId": "HeavenlyBakes.Client",
       "SourceType": "Project",
@@ -8978,23 +8999,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"udKRa3do08e+KbWywTvGHay9FXpzb1IlCEOWdE/PlDU=\""
+          "Value": "\"EavaQeSvUXHdhadS6mblPMsA9GvMYmRQ7IuY7Sx2z/k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Jul 2025 16:43:05 GMT"
+          "Value": "Sat, 26 Jul 2025 17:53:27 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-udKRa3do08e+KbWywTvGHay9FXpzb1IlCEOWdE/PlDU="
+          "Value": "sha256-EavaQeSvUXHdhadS6mblPMsA9GvMYmRQ7IuY7Sx2z/k="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\amo94l9dxa-j5kxxu11wf.gz",
+      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\amo94l9dxa-zvrf6t4i7a.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9021,11 +9042,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ttp6GQ8HnqI7OxyXIHiggIWq5fnFAXGxXBxLoy+8Eas=\""
+          "Value": "\"IQHcjFBrvot3Dx2A6sgGyXbe4+Kt826/KhG7RY9cgQo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Jul 2025 16:42:22 GMT"
+          "Value": "Sat, 26 Jul 2025 17:52:37 GMT"
         },
         {
           "Name": "Vary",
@@ -9037,19 +9058,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"udKRa3do08e+KbWywTvGHay9FXpzb1IlCEOWdE/PlDU=\""
+          "Value": "W/\"EavaQeSvUXHdhadS6mblPMsA9GvMYmRQ7IuY7Sx2z/k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-udKRa3do08e+KbWywTvGHay9FXpzb1IlCEOWdE/PlDU="
+          "Value": "sha256-EavaQeSvUXHdhadS6mblPMsA9GvMYmRQ7IuY7Sx2z/k="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\amo94l9dxa-j5kxxu11wf.gz",
+      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\amo94l9dxa-zvrf6t4i7a.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9074,11 +9095,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ttp6GQ8HnqI7OxyXIHiggIWq5fnFAXGxXBxLoy+8Eas=\""
+          "Value": "\"IQHcjFBrvot3Dx2A6sgGyXbe4+Kt826/KhG7RY9cgQo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Jul 2025 16:42:22 GMT"
+          "Value": "Sat, 26 Jul 2025 17:52:37 GMT"
         },
         {
           "Name": "Vary",
@@ -9088,7 +9109,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ttp6GQ8HnqI7OxyXIHiggIWq5fnFAXGxXBxLoy+8Eas="
+          "Value": "sha256-IQHcjFBrvot3Dx2A6sgGyXbe4+Kt826/KhG7RY9cgQo="
         }
       ]
     },
@@ -10203,7 +10224,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23644"
+          "Value": "24096"
         },
         {
           "Name": "Content-Type",
@@ -10211,28 +10232,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A86H1mwSAjnq3nXCvqxJsuihzNmt5Q0+fSy9KexBwg4=\""
+          "Value": "\"IsIWwZvMZc+wcvOahsqCONSTYzpoQySQre6rirDJRpg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Jul 2025 16:43:05 GMT"
+          "Value": "Sat, 26 Jul 2025 17:53:26 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A86H1mwSAjnq3nXCvqxJsuihzNmt5Q0+fSy9KexBwg4="
+          "Value": "sha256-IsIWwZvMZc+wcvOahsqCONSTYzpoQySQre6rirDJRpg="
         }
       ]
     },
     {
       "Route": "_framework/HeavenlyBakes.Client.pdb",
-      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\ey27cs5fs2-hzgggunnx0.gz",
+      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\ey27cs5fs2-qd7is3wb0o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000058424866"
+          "Quality": "0.000057058085"
         }
       ],
       "ResponseHeaders": [
@@ -10250,15 +10271,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17115"
+          "Value": "17525"
         },
         {
           "Name": "ETag",
-          "Value": "\"rozyn+Sw2mqv2BsHy9nVC3cYjw845zG/nurmsaa/oZk=\""
+          "Value": "\"NfP8AXwOWswZ53AkUcsYNZEbrcTZlV7u/cl0p94zZCE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Jul 2025 16:42:21 GMT"
+          "Value": "Sat, 26 Jul 2025 17:52:36 GMT"
         },
         {
           "Name": "Vary",
@@ -10270,19 +10291,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"A86H1mwSAjnq3nXCvqxJsuihzNmt5Q0+fSy9KexBwg4=\""
+          "Value": "W/\"IsIWwZvMZc+wcvOahsqCONSTYzpoQySQre6rirDJRpg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A86H1mwSAjnq3nXCvqxJsuihzNmt5Q0+fSy9KexBwg4="
+          "Value": "sha256-IsIWwZvMZc+wcvOahsqCONSTYzpoQySQre6rirDJRpg="
         }
       ]
     },
     {
       "Route": "_framework/HeavenlyBakes.Client.pdb.gz",
-      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\ey27cs5fs2-hzgggunnx0.gz",
+      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\ey27cs5fs2-qd7is3wb0o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10299,7 +10320,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17115"
+          "Value": "17525"
         },
         {
           "Name": "Content-Type",
@@ -10307,11 +10328,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rozyn+Sw2mqv2BsHy9nVC3cYjw845zG/nurmsaa/oZk=\""
+          "Value": "\"NfP8AXwOWswZ53AkUcsYNZEbrcTZlV7u/cl0p94zZCE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Jul 2025 16:42:21 GMT"
+          "Value": "Sat, 26 Jul 2025 17:52:36 GMT"
         },
         {
           "Name": "Vary",
@@ -10321,7 +10342,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rozyn+Sw2mqv2BsHy9nVC3cYjw845zG/nurmsaa/oZk="
+          "Value": "sha256-NfP8AXwOWswZ53AkUcsYNZEbrcTZlV7u/cl0p94zZCE="
         }
       ]
     },
@@ -10340,7 +10361,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19221"
+          "Value": "21269"
         },
         {
           "Name": "Content-Type",
@@ -10348,28 +10369,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dNZ/X9e3l8/QEIn9uUEsF5b+poDocgqH4qDkArLcB30=\""
+          "Value": "\"GASX/l8wDEFS0PIpMA+akQp4Cot2geuUurLhl/sIyio=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Jul 2025 16:43:05 GMT"
+          "Value": "Sat, 26 Jul 2025 17:53:26 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dNZ/X9e3l8/QEIn9uUEsF5b+poDocgqH4qDkArLcB30="
+          "Value": "sha256-GASX/l8wDEFS0PIpMA+akQp4Cot2geuUurLhl/sIyio="
         }
       ]
     },
     {
       "Route": "_framework/HeavenlyBakes.Client.wasm",
-      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\z5nfqvr1if-cclidc5rqc.gz",
+      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\z5nfqvr1if-oom1bot35y.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000128716695"
+          "Quality": "0.000121876904"
         }
       ],
       "ResponseHeaders": [
@@ -10387,15 +10408,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7768"
+          "Value": "8204"
         },
         {
           "Name": "ETag",
-          "Value": "\"ricoJdos0d6SrPqUfTMKqUWgMSzX87eReJerE3+vn9o=\""
+          "Value": "\"FkvfHpHfHXUxf55Fo0/hxNxwh2rPEIkW3W4sOGju2D4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Jul 2025 16:42:21 GMT"
+          "Value": "Sat, 26 Jul 2025 17:52:36 GMT"
         },
         {
           "Name": "Vary",
@@ -10407,19 +10428,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dNZ/X9e3l8/QEIn9uUEsF5b+poDocgqH4qDkArLcB30=\""
+          "Value": "W/\"GASX/l8wDEFS0PIpMA+akQp4Cot2geuUurLhl/sIyio=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dNZ/X9e3l8/QEIn9uUEsF5b+poDocgqH4qDkArLcB30="
+          "Value": "sha256-GASX/l8wDEFS0PIpMA+akQp4Cot2geuUurLhl/sIyio="
         }
       ]
     },
     {
       "Route": "_framework/HeavenlyBakes.Client.wasm.gz",
-      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\z5nfqvr1if-cclidc5rqc.gz",
+      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\obj\\Debug\\net8.0\\compressed\\z5nfqvr1if-oom1bot35y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10436,7 +10457,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7768"
+          "Value": "8204"
         },
         {
           "Name": "Content-Type",
@@ -10444,11 +10465,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ricoJdos0d6SrPqUfTMKqUWgMSzX87eReJerE3+vn9o=\""
+          "Value": "\"FkvfHpHfHXUxf55Fo0/hxNxwh2rPEIkW3W4sOGju2D4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Jul 2025 16:42:21 GMT"
+          "Value": "Sat, 26 Jul 2025 17:52:36 GMT"
         },
         {
           "Name": "Vary",
@@ -10458,7 +10479,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ricoJdos0d6SrPqUfTMKqUWgMSzX87eReJerE3+vn9o="
+          "Value": "sha256-FkvfHpHfHXUxf55Fo0/hxNxwh2rPEIkW3W4sOGju2D4="
         }
       ]
     },
@@ -37803,6 +37824,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4="
+        }
+      ]
+    },
+    {
+      "Route": "images/Cake1.piuk9t9us7.png",
+      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\Cake1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gSSVv87svQZT4QsPVPlToRxguxlkbVfX/hWOwMXcqFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 11:18:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "piuk9t9us7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gSSVv87svQZT4QsPVPlToRxguxlkbVfX/hWOwMXcqFQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Cake1.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Cake1.png",
+      "AssetFile": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\Cake1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gSSVv87svQZT4QsPVPlToRxguxlkbVfX/hWOwMXcqFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jul 2025 11:18:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gSSVv87svQZT4QsPVPlToRxguxlkbVfX/hWOwMXcqFQ="
         }
       ]
     },
