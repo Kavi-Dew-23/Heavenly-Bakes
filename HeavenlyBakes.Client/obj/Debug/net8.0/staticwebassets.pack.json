@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\HeavenlyBakes.Client.styles.css"
     },
     {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
       "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
@@ -27,6 +31,54 @@
     {
       "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\BentoCake1.svg",
+      "PackagePath": "staticwebassets\\images\\BentoCake1.svg"
+    },
+    {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\BentoCake2.svg",
+      "PackagePath": "staticwebassets\\images\\BentoCake2.svg"
+    },
+    {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\BirthdayCake1.svg",
+      "PackagePath": "staticwebassets\\images\\BirthdayCake1.svg"
+    },
+    {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\Cake1.png",
+      "PackagePath": "staticwebassets\\images\\Cake1.png"
+    },
+    {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\CheeseCake1.svg",
+      "PackagePath": "staticwebassets\\images\\CheeseCake1.svg"
+    },
+    {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\CheeseCake2.svg",
+      "PackagePath": "staticwebassets\\images\\CheeseCake2.svg"
+    },
+    {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\ChocoCake1.svg",
+      "PackagePath": "staticwebassets\\images\\ChocoCake1.svg"
+    },
+    {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\ChocoCake2.svg",
+      "PackagePath": "staticwebassets\\images\\ChocoCake2.svg"
+    },
+    {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\FruitCake1.svg",
+      "PackagePath": "staticwebassets\\images\\FruitCake1.svg"
+    },
+    {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\RedVelvetCake1.svg",
+      "PackagePath": "staticwebassets\\images\\RedVelvetCake1.svg"
+    },
+    {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\RedVelvetcake2.svg",
+      "PackagePath": "staticwebassets\\images\\RedVelvetcake2.svg"
+    },
+    {
+      "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\TowerCake1.svg",
+      "PackagePath": "staticwebassets\\images\\TowerCake1.svg"
     },
     {
       "Id": "G:\\My projects\\Heavenly Bakes\\HeavenlyBakes\\HeavenlyBakes.Client\\wwwroot\\images\\cart.png",

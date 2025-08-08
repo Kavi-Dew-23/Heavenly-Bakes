@@ -625,6 +625,7 @@ G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\HeavenlyBakes.Client.AssemblyInfo.cs
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\HeavenlyBakes.Client.csproj.CoreCompileInputs.cache
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\HeavenlyBakes.Client.MvcApplicationPartsAssemblyInfo.cache
+G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\HeavenlyBakes.Client.sourcelink.json
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -1026,6 +1027,8 @@ G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\compressed\z2gsf4c71z-tptq2av103.gz
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\compressed\m6fcg603pk-lfu7j35m59.gz
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\compressed\awu3doo33j-oyz0vx2fzb.gz
+G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\compressed\8p0m2dway9-q7aeft5i46.gz
+G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\compressed\ixbw6rnuzw-8vufettnew.gz
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\staticwebassets.build.json
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\staticwebassets.development.json
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -1041,9 +1044,6 @@ G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\refint\HeavenlyBakes.Client.dll
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\HeavenlyBakes.Client.pdb
 G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\ref\HeavenlyBakes.Client.dll
-G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\compressed\8p0m2dway9-lf9yvkccie.gz
-G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\compressed\ixbw6rnuzw-xdct5y54ow.gz
-G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\HeavenlyBakes.Client.sourcelink.json
-G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\compressed\z5nfqvr1if-cclidc5rqc.gz
-G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\compressed\ey27cs5fs2-hzgggunnx0.gz
-G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\compressed\amo94l9dxa-j5kxxu11wf.gz
+G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\compressed\z5nfqvr1if-nyse017u21.gz
+G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\compressed\ey27cs5fs2-qsrh73enq3.gz
+G:\My projects\Heavenly Bakes\HeavenlyBakes\HeavenlyBakes.Client\obj\Debug\net8.0\compressed\amo94l9dxa-fwd1a6iq9l.gz

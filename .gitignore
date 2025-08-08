@@ -1,1 +1,7 @@
 .vs/
+HeavenlyBakes.Client/bin
+HeavenlyBakes.Client/obj
+HeavenlyBakes.Server/bin
+HeavenlyBakes.Server/obj
+HeavenlyBakes.Shared/bin
+HeavenlyBakes.Shared/obj

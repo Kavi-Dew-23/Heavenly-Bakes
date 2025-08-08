@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeavenlyBakes.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4856a48b9c0fd03d3a488b4f35dcc38855d52984")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19f3b95f2d5f8fc8a34c24ab65148ce7d37f6ae1")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeavenlyBakes.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeavenlyBakes.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
