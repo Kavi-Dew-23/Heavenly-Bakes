@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "HeavenlyBakes.Client",
   "resources": {
-    "hash": "sha256-xfO1AsC9rcJOYOkHRMrkQeQw24kwhXSTZfCD2j7v5x0=",
+    "hash": "sha256-QD88cMhgCXIwDM2QOjznc4Eo7gjJmZITXjW6KAGZn/w=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -209,12 +209,12 @@
       "mscorlib.wasm": "sha256-QoC5hTKpDNO6efLnEvYwV9OJBXvYRq8/1yGhNZKiNCw=",
       "netstandard.wasm": "sha256-JT2F4bYWJpaSGq+iD0ITLpWxsDhMUjhqje9RpBtTg7w=",
       "System.Private.CoreLib.wasm": "sha256-fvIPBcvgvsRuWrKi2LGQsLYvcKUSnyIuBUsE3LJu/0Y=",
-      "HeavenlyBakes.Shared.wasm": "sha256-QXOB5e0b+iJIrdDoyI1IYiz11IjkIOuFwFxcZ2jCHVw=",
-      "HeavenlyBakes.Client.wasm": "sha256-GASX/l8wDEFS0PIpMA+akQp4Cot2geuUurLhl/sIyio="
+      "HeavenlyBakes.Shared.wasm": "sha256-ygH55WH8yP60DysZaMpPthsrgQ/g8W/J+hCI++Ese9Q=",
+      "HeavenlyBakes.Client.wasm": "sha256-4eGfOZ9WpiStms/ebsU662qWTyrgo+kUhHyMXbcJYJs="
     },
     "pdb": {
-      "HeavenlyBakes.Shared.pdb": "sha256-9SA7X0Af/ltuJuEVGzbxwYUZDKf0a35yj4PekGcJ5m0=",
-      "HeavenlyBakes.Client.pdb": "sha256-IsIWwZvMZc+wcvOahsqCONSTYzpoQySQre6rirDJRpg="
+      "HeavenlyBakes.Shared.pdb": "sha256-BDxBO6XyA/ZYUKLxEF31bmUbCfwBNapJgq8CnDY6EvI=",
+      "HeavenlyBakes.Client.pdb": "sha256-+pkwsCmUCZoiximuMFOA7iUgQzFUOxw3xcZx7DBLtb8="
     }
   },
   "cacheBootResources": true,
