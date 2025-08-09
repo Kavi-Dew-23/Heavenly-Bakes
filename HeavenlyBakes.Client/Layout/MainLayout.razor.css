@@ -75,3 +75,24 @@ main {
         padding-right: 1.5rem !important;
     }
 }
+
+.footer {
+    background-color: #968192;
+    text-align:center;
+    width:100%;
+    margin-top: auto;
+}
+.footer-content {
+    justify-content: center;
+    margin: 0 auto;
+    padding: 15px 20px;
+}
+.whatsapp-login {
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: center;
+    background-color: #6E5A69;
+    padding: 15px 15px;
+    margin-bottom: 15px;
+    width: 30%
+}
