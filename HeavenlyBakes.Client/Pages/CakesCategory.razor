@@ -1,0 +1,74 @@
+﻿@page "/cake/{category}"
+<link href="css/Home.css" rel="stylesheet"/>
+
+<h2 class="category-title" style="font-size:22px; font-family: Georgia, 'Times New Roman', Times, serif; font-weight: bold;">
+    @CategoryTitle
+</h2>
+
+<div class="product-grid">
+    @foreach (var cake in Cakes)
+    {
+        <div class="card">
+            <img src="@cake.Image" alt="@cake.Name" />
+            <div class="card-body">
+                <h3>@cake.Name</h3>
+                <p class="price">Rs. @cake.Price</p>
+            </div>
+            <div class="card-footer">
+                <button>Add to Cart</button>
+            </div>
+        </div>
+    }
+</div>
+
+
+@code {
+    [Parameter]
+    public string category { get; set; }
+    private string CategoryTitle;
+    private List<Cake> Cakes = new();
+
+    protected override void OnParametersSet()
+    {
+        // Gives the Category title
+        CategoryTitle = category switch
+        {
+            "chocolate" => "Chocolate Cakes",
+            "cheese" => "Cheese Cakes",
+            "redVelvet" => "Red Velvet Cakes",
+            "bento" => "Bento Cakes",
+            "birthday" => "Birthday Cakes",
+            _ => "Cakes"
+        };
+        // Load the cakes for the selected category
+
+        Cakes = CakesData
+        .Where(c => c.Category.ToLower() == category.ToLower())
+        .ToList();
+    }
+
+    private static List<Cake> CakesData = new()
+    {
+        new Cake { Name = "Chocolate Hazelnut Cake" , Price = 7800, Image = "/images/ChocoCake3.svg", Category="chocolate"},
+        new Cake { Name = "Chocolate Cake with chocolate tuffle decoration", Price= 6000, Image = "/images/ChocoCake2.svg", Category="chocolate"},
+        new Cake { Name = "Blueberry Cashew Bliss Cheese Cake", Price= 8000, Image="/images/CheeseCake2.svg", Category ="cheese"},
+        new Cake { Name = "Luscious New York Cheesecake", Price = 8900, Image="/images/CheeseCake3.svg", Category="cheese"},
+        new Cake { Name = "Classic Red Velvet Cake", Price = 8500, Image="images/RedVelvetCake3.svg", Category="redVelvet"},
+        new Cake { Name = "Heart Shaped Red Velvet Cake", Price = 9500, Image = "/images/RedVelvetCake4.svg", Category="redVelvet"},
+        new Cake { Name = "Heavenly Red Velvet Cake", Price = 9000, Image = "/images/RedVelvetCake5.svg", Category="redVelvet"},
+        new Cake { Name = "Happy birthday bento cake", Price = 1200, Image = "/images/BentoCake2.svg", Category="bento"},
+        new Cake { Name = "Sweet Hearts Delight Bento Cake", Price = 1000, Image = "/images/BentoCake3.svg", Category="bento"},
+        new Cake { Name = "Rainbow Bliss Birthday Treat", Price = 5500, Image = "/images/BirthdayCake2.svg", Category="birthday"},
+
+    };
+
+    // Store the Cakes details
+    public class Cake{
+        public string Name { get; set; }
+        public decimal Price { get; set;  }
+        public string Image { get; set; }
+        public string Category { get; set; }
+    }
+
+}
+
